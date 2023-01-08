@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/leafletReactJS/static/css/main.aaf3e7ca.css",
+    "main.js": "/leafletReactJS/static/js/main.e354425e.js",
+    "static/media/background.jpg": "/leafletReactJS/static/media/background.ef01be751705d2115da0.jpg",
+    "index.html": "/leafletReactJS/index.html",
+    "main.aaf3e7ca.css.map": "/leafletReactJS/static/css/main.aaf3e7ca.css.map",
+    "main.e354425e.js.map": "/leafletReactJS/static/js/main.e354425e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaf3e7ca.css",
+    "static/js/main.e354425e.js"
+  ]
+}
