@@ -1,4 +1,5 @@
-### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/leafletReactJS/
+#### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/leafletReactJS/
+
 Проект "Построение транспортных маршрутов"
 ![image](https://user-images.githubusercontent.com/61347452/228743842-c35fe3a3-7d0d-4a1a-ab8a-347ad977be59.png)
 В проекте используется пакетное решение работы с картой leaflet
